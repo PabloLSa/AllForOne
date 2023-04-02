@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+![logo](./MySqlDocker.jpeg)
+# AllForOne
+
+Achei super interessante mesmo foi desenvolver as principais queries do MySQL fazendo um CRUD (create, read, update, delete) no bando de dados Northwind, dentro do Docker.
+
+Inicializei dois conatainers um chamado all_for_one, e outro chamado all_for_one_db.
+Abri o container all_for_one(docker exec -it all_for_one bash) no VS Code, e o melhor ainda usei a extensão MyQSL no Code para execultar as queries. Recomendo muito a extensão para todos!!
+
+Ah foi muito legal relembrar aprendizados de outra época, só que agora no desenvolvimento web!!
+
+Foi muito divertido conseguir a nota máxima!!!
